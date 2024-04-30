@@ -1,0 +1,2 @@
+R_WIDTH  = 600
+R_HEIGHT = 600
